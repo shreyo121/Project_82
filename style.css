@@ -1,0 +1,17 @@
+.body_background{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+    }
+    #myCanvas{
+       
+        background-color: white;
+        border-width: 5px;
+        border-style: ridge;
+        border-color: grey;
+    }
+    #OY{
+        font-size: 100px;
+        color: red;
+    }
+    
